@@ -57,3 +57,7 @@ docs/_build/
 target/
 
 *.sql*
+*secret*.json
+
+.idea/*
+.DS_Store
