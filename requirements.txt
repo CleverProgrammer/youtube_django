@@ -5,7 +5,7 @@ cffi==1.12.3
 chardet==3.0.4
 cryptography==2.7
 defusedxml==0.6.0
-Django==2.2.6
+Django==2.2.20
 django-allauth==0.40.0
 google-api-python-client==1.7.11
 google-auth==1.6.3
