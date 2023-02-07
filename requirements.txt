@@ -3,7 +3,7 @@ cachetools==3.1.1
 certifi==2019.9.11
 cffi==1.12.3
 chardet==3.0.4
-cryptography==2.7
+cryptography==39.0.1
 defusedxml==0.6.0
 Django==2.2.6
 django-allauth==0.40.0
